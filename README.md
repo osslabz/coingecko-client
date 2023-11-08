@@ -8,8 +8,6 @@ This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philip
 
 ---
 
----
-
 # CoinGecko-Java
 Java wrapper for the CoinGecko API.
 <p align="center">
