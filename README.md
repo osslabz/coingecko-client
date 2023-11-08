@@ -8,8 +8,6 @@ This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philip
 
 ---
 
----
-
 # CoinGecko-Java
 ![CoinGecko build status](https://github.com/Philipinho/CoinGecko-Java/actions/workflows/maven.yml/badge.svg)
 

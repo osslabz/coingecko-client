@@ -6,7 +6,7 @@
 
     <groupId>net.osslabz</groupId>
     <artifactId>coingecko-java</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Allows to decode raw input data from an EVM smart contract call (on Ethereum or a compatible chain like
