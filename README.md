@@ -1,3 +1,15 @@
+CoinGecko Client (Java)
+=======================
+![GitHub](https://img.shields.io/github/license/osslabz/coingecko-client)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-client/maven.yml?branch=master)
+[![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-client?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-client)
+
+This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philipinho/CoinGecko-Java) that is properly releases on [Maven Central](https://search.maven.org/artifact/net.osslabz/coingecko-client).
+
+---
+
+---
+
 # CoinGecko-Java
 ![CoinGecko build status](https://github.com/Philipinho/CoinGecko-Java/actions/workflows/maven.yml/badge.svg)
 
