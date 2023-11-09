@@ -6,6 +6,8 @@ CoinGecko Client (Java)
 
 This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philipinho/CoinGecko-Java) that is properly releases on [Maven Central](https://search.maven.org/artifact/net.osslabz/coingecko-client).
 
+Once [Enable CI and Automated Release Management #41](https://github.com/Philipinho/CoinGecko-Java/pull/41) is merged and the original project is published this fork will be discontinued.
+
 ---
 
 # CoinGecko-Java
