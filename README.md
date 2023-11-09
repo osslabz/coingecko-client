@@ -1,6 +1,13 @@
+# CoinGecko-Java
 ![GitHub](https://img.shields.io/github/license/osslabz/coingecko-java)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-java/maven.yml?branch=master)
 [![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-java?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-client)
+
+Java wrapper for the CoinGecko API.
+<p align="center">
+    <img src="https://i.ibb.co/sRLCZk2/java-gecko-200.png" alt="java-gecko-200" alt="CoinGecko-Java logo" alt="CoinGecko-Java Logo"/>
+</p>
+
 
 This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philipinho/CoinGecko-Java) that is properly releases on [Maven Central](https://search.maven.org/artifact/net.osslabz/coingecko-java).
 
@@ -39,14 +46,6 @@ dependencies {
 **For further info see below the original README.**
 
 ---
-
-# CoinGecko-Java
-![CoinGecko build status](https://github.com/Philipinho/CoinGecko-Java/actions/workflows/maven.yml/badge.svg)
-
-Java wrapper for the CoinGecko API.
-<p align="center">
-    <img src="https://i.ibb.co/sRLCZk2/java-gecko-200.png" alt="java-gecko-200" alt="CoinGecko-Java logo" alt="CoinGecko-Java Logo"/>
-</p>
 
 ## Usage
 This API client covers all CoinGecko's API endpoints and i'll try to update it when new endpoints are added.
