@@ -5,13 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.osslabz</groupId>
-    <artifactId>coingecko-java</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <artifactId>coingecko-client</artifactId>
+    <version>1.0.1</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <description>Allows to decode raw input data from an EVM smart contract call (on Ethereum or a compatible chain like
-        Avalanche, BSC etc.) into a processable format obtained from the contract's ABi definition (JSON).
-    </description>
+    <description>Java wrapper for the CoinGecko API</description>
     <url>https://github.com/osslabz/coingecko-client</url>
 
     <properties>
