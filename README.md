@@ -1,12 +1,42 @@
-CoinGecko Client (Java)
-=======================
-![GitHub](https://img.shields.io/github/license/osslabz/coingecko-client)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-client/maven.yml?branch=master)
-[![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-client?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-client)
+![GitHub](https://img.shields.io/github/license/osslabz/coingecko-java)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-java/maven.yml?branch=master)
+[![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-java?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-client)
 
-This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philipinho/CoinGecko-Java) that is properly releases on [Maven Central](https://search.maven.org/artifact/net.osslabz/coingecko-client).
+This is a (synced) fork of [Philipinho/CoinGecko-Java](https://github.com/Philipinho/CoinGecko-Java) that is properly releases on [Maven Central](https://search.maven.org/artifact/net.osslabz/coingecko-java).
 
 Once [Enable CI and Automated Release Management #41](https://github.com/Philipinho/CoinGecko-Java/pull/41) is merged and the original project is published this fork will be discontinued.
+
+Usage
+---------
+
+### Maven
+
+```xml
+<dependency>
+    <groupId>net.osslabz</groupId>
+    <artifactId>coingecko-java</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+### Gradle (Groovy)
+
+```groovy
+dependencies {
+    implementation 'net.osslabz:coingecko-java:1.0.0'
+}
+```
+
+### Gradle (Kotlin)
+
+```kotlin
+dependencies {
+    implementation ("net.osslabz:coingecko-java:1.0.0")
+}
+```
+
+
+**For further info see below the original README.**
 
 ---
 
