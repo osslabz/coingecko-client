@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.osslabz</groupId>
-    <artifactId>coingecko-client</artifactId>
-    <version>1.0.1</version>
+    <artifactId>coingecko-java</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Java wrapper for the CoinGecko API</description>
-    <url>https://github.com/osslabz/coingecko-client</url>
+    <url>https://github.com/osslabz/coingecko-java</url>
 
     <properties>
         <maven.compiler.release>8</maven.compiler.release>
@@ -36,9 +36,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/osslabz/coingecko-client.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/osslabz/coingecko-client.git</developerConnection>
-        <url>https://github.com/osslabz/coingecko-client</url>
+        <connection>scm:git:ssh://git@github.com/osslabz/coingecko-java.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/osslabz/coingecko-java.git</developerConnection>
+        <url>https://github.com/osslabz/coingecko-java</url>
         <tag>HEAD</tag>
     </scm>
 
