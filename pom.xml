@@ -51,7 +51,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/osslabz/coingecko-java.git</connection>
-        <developerConnection>scm:https:ssh://github.com/osslabz/coingecko-java.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/osslabz/coingecko-java.git</developerConnection>
         <url>https://github.com/osslabz/coingecko-java</url>
         <tag>main</tag>
     </scm>
