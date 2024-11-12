@@ -1,7 +1,8 @@
 # CoinGecko-Java
-![GitHub](https://img.shields.io/github/license/osslabz/coingecko-java)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-java/maven.yml?branch=master)
-[![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-java?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-client)
+![GitHub](https://img.shields.io/github/license/osslabz/bitcoin-commons)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-java/build-on-push.yml?branch=dev&label=build&logo=git)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/coingecko-java/build-release-on-main-push.yml?branch=main&label=perform-release&logo=semanticrelease)
+[![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/coingecko-java?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/coingecko-java)
 
 Java wrapper for the CoinGecko API.
 <p align="center">

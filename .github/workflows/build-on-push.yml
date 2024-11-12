@@ -1,0 +1,24 @@
+name: build-on-push
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+jobs:
+  build-on-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: setup-jdk
+        uses: actions/setup-java@v4
+        with:
+          java-version: 21
+          distribution: 'temurin'
+          cache: maven
+
+      - name: maven-build-verify
+        run: mvn --batch-mode --update-snapshots verify
