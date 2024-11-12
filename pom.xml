@@ -22,7 +22,8 @@
         <project.build.outputTimestamp>2024-11-11T10:28:26Z</project.build.outputTimestamp>
 
         <maven.compiler.release>${osslabz.java.version}</maven.compiler.release>
- 	<lombok.version>1.18.34</lombok.version>
+
+        <lombok.version>1.18.34</lombok.version>
         <retrofit.version>2.9.0</retrofit.version>
     </properties>
 
@@ -40,7 +41,7 @@
             <organization>Philipinho/CoinGecko-Java</organization>
             <organizationUrl>https://github.com/Philipinho/CoinGecko-Java</organizationUrl>
         </developer>
- 	<developer>
+        <developer>
             <name>Raphael Vullriede</name>
             <email>raphael@osslabz.net</email>
             <organization>osslabz.net</organization>
